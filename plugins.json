@@ -1,0 +1,2996 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anifreakz.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 14395,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "Anifreakz",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Anifreakz.cs3",
+        "name": "Anifreakz"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Solominou/solo/master/Anilibria/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 19453,
+        "status": 1,
+        "language": "ru",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "Anilibria",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Anilibria.cs3",
+        "name": "Anilibria"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeindo.fun&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 25827,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 9,
+        "internalName": "AnimeIndoProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/AnimeIndoProvider.cs3",
+        "name": "AnimeIndoProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=111.90.143.42&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 18835,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 6,
+        "internalName": "AnimeSailProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/AnimeSailProvider.cs3",
+        "name": "AnimeSailProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anizm.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 16567,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "Anizm",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Anizm.cs3",
+        "name": "Anizm"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dizikorea.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 18232,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Dizikorea",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Dizikorea.cs3",
+        "name": "Dizikorea"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.asia&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 17242,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "DramaidProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/DramaidProvider.cs3",
+        "name": "DramaidProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=149.3.170.35&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 12974,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "DramaSerial",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/DramaSerial.cs3",
+        "name": "DramaSerial"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.duboku.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 12801,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "DubokuProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/DubokuProvider.cs3",
+        "name": "DubokuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gomunime.is&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 19298,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "Gomunimeis",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Gomunimeis.cs3",
+        "name": "Gomunimeis"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=185.231.223.76&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 17970,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "GomunimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/GomunimeProvider.cs3",
+        "name": "GomunimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=goodporn.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 10948,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Sora"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 7,
+        "internalName": "GoodPorn",
+        "description": "Premium porn with 4K support (use VPN if links not working)",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/GoodPorn.cs3",
+        "name": "GoodPorn"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilmcehennemi.live&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 20449,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "Hdfilmcehennemi",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Hdfilmcehennemi.cs3",
+        "name": "Hdfilmcehennemi"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hdrezka19139.org&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 24226,
+        "status": 1,
+        "language": "ru",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "HDrezkaProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/HDrezkaProvider.cs3",
+        "name": "HDrezkaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 14499,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Sora"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "Hentaiheaven",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Hentaiheaven.cs3",
+        "name": "Hentaiheaven"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=109.234.36.69&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 16559,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 9,
+        "internalName": "IdlixProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/IdlixProvider.cs3",
+        "name": "IdlixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.i-moviehd.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 13086,
+        "status": 1,
+        "language": "th",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "IMoviehd",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/IMoviehd.cs3",
+        "name": "IMoviehd"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www2.kickassanime.ro&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 51610,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 10,
+        "internalName": "Kickassanime",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Kickassanime.cs3",
+        "name": "Kickassanime"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kissasian.pe&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 13078,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Kissasian",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Kissasian.cs3",
+        "name": "Kissasian"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.me&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 18807,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "KisskhProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/KisskhProvider.cs3",
+        "name": "KisskhProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 21607,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 9,
+        "internalName": "KuramanimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/KuramanimeProvider.cs3",
+        "name": "KuramanimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=45.12.2.2&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 19771,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 7,
+        "internalName": "KuronimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/KuronimeProvider.cs3",
+        "name": "KuronimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=lk21official.org&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 16394,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 11,
+        "internalName": "LayarKacaProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=loklok.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 33273,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 23,
+        "internalName": "Loklok",
+        "description": "#2 best extension based on Loklok API",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Loklok.cs3",
+        "name": "Loklok"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=moviehab.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 18086,
+        "status": 1,
+        "language": "tl",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Moviehab",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Moviehab.cs3",
+        "name": "Moviehab"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 24828,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 32,
+        "internalName": "Movierulzhd",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Movierulzhd.cs3",
+        "name": "Movierulzhd"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=146.19.24.137&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 15903,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MultiplexProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/MultiplexProvider.cs3",
+        "name": "MultiplexProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=neonime.watch&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 20379,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Movie",
+            "OVA"
+        ],
+        "version": 6,
+        "internalName": "NeonimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/NeonimeProvider.cs3",
+        "name": "NeonimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=nontonanimeid.site&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 22701,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 11,
+        "internalName": "NontonAnimeIDProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/NontonAnimeIDProvider.cs3",
+        "name": "NontonAnimeIDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=123tv.live&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 16252,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 3,
+        "internalName": "OnetwothreeTv",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/OnetwothreeTv.cs3",
+        "name": "OnetwothreeTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=65.108.132.145&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 22909,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 11,
+        "internalName": "OploverzProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/OploverzProvider.cs3",
+        "name": "OploverzProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 21749,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 10,
+        "internalName": "OtakudesuProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/OtakudesuProvider.cs3",
+        "name": "OtakudesuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 11252,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Sora"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 4,
+        "internalName": "Paradisehill",
+        "description": "Series porn (use VPN if links not working)",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Paradisehill.cs3",
+        "name": "Paradisehill"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichilla.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 15402,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "PhimmoichillProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/PhimmoichillProvider.cs3",
+        "name": "PhimmoichillProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=104.237.198.194&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 26296,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "RebahinProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/RebahinProvider.cs3",
+        "name": "RebahinProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=194.163.183.129&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 20285,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 7,
+        "internalName": "Samehadaku",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Samehadaku.cs3",
+        "name": "Samehadaku"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Solominou/solo/master/SoraStream/Icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 242694,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo",
+            "Sora"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 106,
+        "internalName": "SoraStream",
+        "description": "#1 best extention based on MultiAPI",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/SoraStream.cs3",
+        "name": "SoraStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 21741,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 14,
+        "internalName": "TimefourTv",
+        "description": "Sport Live Stream",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/TimefourTv.cs3",
+        "name": "TimefourTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tocanime.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 14159,
+        "status": 1,
+        "language": "vi",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "TocanimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/TocanimeProvider.cs3",
+        "name": "TocanimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=topdocumentaryfilms.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 10193,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "Topdocumentaryfilms",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Topdocumentaryfilms.cs3",
+        "name": "Topdocumentaryfilms"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=turkish123.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 13202,
+        "status": 1,
+        "language": "tr",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Turkish",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Turkish.cs3",
+        "name": "Turkish"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv247.us&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 9546,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "Tvtwofourseven",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Tvtwofourseven.cs3",
+        "name": "Tvtwofourseven"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=uakino.club&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 16033,
+        "status": 1,
+        "language": "uk",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Anime",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "UakinoProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/UakinoProvider.cs3",
+        "name": "UakinoProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=useetv.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 9523,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "UseeTv",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/UseeTv.cs3",
+        "name": "UseeTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 15018,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "WcofunProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/WcofunProvider.cs3",
+        "name": "WcofunProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=xcine.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 23428,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Xcineio",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Xcineio.cs3",
+        "name": "Xcineio"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Solominou/solo/master/Xcinetop/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 17551,
+        "status": 1,
+        "language": "de",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Xcinetop",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/Xcinetop.cs3",
+        "name": "Xcinetop"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 14105,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 13,
+        "internalName": "YomoviesProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/YomoviesProvider.cs3",
+        "name": "YomoviesProvider"
+    },
+
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 17046,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AnimeflvIOProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/AnimeflvIOProvider.cs3",
+        "name": "AnimeflvIOProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 16908,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 4,
+        "internalName": "AnimeflvProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/AnimeflvProvider.cs3",
+        "name": "AnimeflvProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animension.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 15343,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimensionProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/AnimensionProvider.cs3",
+        "name": "AnimensionProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bflix.ru&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 34418,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "version": 7,
+        "internalName": "BflixProvider",
+        "description": "Webview is used to load links, reload if necessary",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/BflixProvider.cs3",
+        "name": "BflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.lol&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 15997,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "CinecalidadProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/CinecalidadProvider.cs3",
+        "name": "CinecalidadProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=comamosramen.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 34441,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 3,
+        "internalName": "ComamosRamenProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/ComamosRamenProvider.cs3",
+        "name": "ComamosRamenProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cuevana3.me&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 17627,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 8,
+        "internalName": "CuevanaProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/CuevanaProvider.cs3",
+        "name": "CuevanaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasflix.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 31409,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 4,
+        "internalName": "DoramasFlixProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/DoramasFlixProvider.cs3",
+        "name": "DoramasFlixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasyt.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 13031,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 4,
+        "internalName": "DoramasYTProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/DoramasYTProvider.cs3",
+        "name": "DoramasYTProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=allcalidad.ms&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 9834,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "ElifilmsProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/ElifilmsProvider.cs3",
+        "name": "ElifilmsProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=entrepeliculasyseries.nz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 11790,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 6,
+        "internalName": "EntrepeliculasyseriesProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/EntrepeliculasyseriesProvider.cs3",
+        "name": "EntrepeliculasyseriesProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=estrenosdoramas.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 17472,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "EstrenosDoramasProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/EstrenosDoramasProvider.cs3",
+        "name": "EstrenosDoramasProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 22933,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 7,
+        "internalName": "JKAnimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/JKAnimeProvider.cs3",
+        "name": "JKAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=lacartoons.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 9541,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Cartoons",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "LACartoonsProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/LACartoonsProvider.cs3",
+        "name": "LACartoonsProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=monoschinos2.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 12786,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 4,
+        "internalName": "MonoschinosProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/MonoschinosProvider.cs3",
+        "name": "MonoschinosProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=mundodonghua.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 18955,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "MundoDonghuaProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/MundoDonghuaProvider.cs3",
+        "name": "MundoDonghuaProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Nain.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 34440,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 20,
+        "internalName": "NineAnimeProvider",
+        "description": "Watch 9anime with the help of the Consumet API.",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/NineAnimeProvider.cs3",
+        "name": "NineAnimeProvider"
+    },
+    {
+        "iconUrl": "https://peliculasflix.co/img/logo.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 22978,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PeliculasFlixProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/PeliculasFlixProvider.cs3",
+        "name": "PeliculasFlixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelispedia.is&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 14042,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 5,
+        "internalName": "PelispediaProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/PelispediaProvider.cs3",
+        "name": "PelispediaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 14692,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "Pelisplus4KProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/Pelisplus4KProvider.cs3",
+        "name": "Pelisplus4KProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.nu&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 12602,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "PelisplusHDProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/PelisplusHDProvider.cs3",
+        "name": "PelisplusHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplus.ph&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 15731,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "PelisplusSOProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/PelisplusSOProvider.cs3",
+        "name": "PelisplusSOProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=playhublite.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 34718,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "PlayhubProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/PlayhubProvider.cs3",
+        "name": "PlayhubProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesflix.video&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 14758,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SeriesflixProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/SeriesflixProvider.cs3",
+        "name": "SeriesflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=seriesmetro.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 13833,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "SeriesMetroProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/SeriesMetroProvider.cs3",
+        "name": "SeriesMetroProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tioanime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/bflix",
+        "fileSize": 16041,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "TioAnimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/bflix/builds/TioAnimeProvider.cs3",
+        "name": "TioAnimeProvider"
+    },
+
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=akwam.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 13712,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 2,
+        "internalName": "AkwamProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/AkwamProvider.cs3",
+        "name": "AkwamProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=anime4up.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 15389,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "Anime4upPack",
+        "description": "This pack contains Anime4up and Witanime",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/Anime4upPack.cs3",
+        "name": "Anime4upPack"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeblkom.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 13332,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AnimeBlkomProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/AnimeBlkomProvider.cs3",
+        "name": "AnimeBlkomProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeiat.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 20624,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 2,
+        "internalName": "AnimeiatProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/AnimeiatProvider.cs3",
+        "name": "AnimeiatProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=arabseed.ink&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 16392,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "ArabSeedProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/ArabSeedProvider.cs3",
+        "name": "ArabSeedProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=cimanow.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 14700,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "CimaNowProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/CimaNowProvider.cs3",
+        "name": "CimaNowProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tv.egydead.live&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 13531,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 4,
+        "internalName": "EgyDeadProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/EgyDeadProvider.cs3",
+        "name": "EgyDeadProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 19921,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Extractors",
+        "description": "This is required to be downloaded.",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/Extractors.cs3",
+        "name": "Extractors"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://fajer.show&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 16939,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "FajerShowProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/FajerShowProvider.cs3",
+        "name": "FajerShowProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=faselhd.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 16194,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "FaselHDProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/FaselHDProvider.cs3",
+        "name": "FaselHDProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.fushaar.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 11561,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Spoonge"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "FushaarProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/FushaarProvider.cs3",
+        "name": "FushaarProvider"
+    },
+    {
+        "iconUrl": "https://b.gateanime.cam/wp-content/uploads/2020/12/cropped-Favicon-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 11621,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "Cartoon"
+        ],
+        "version": 3,
+        "internalName": "GateAnimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/GateAnimeProvider.cs3",
+        "name": "GateAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=movizland.online&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 18060,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "Spoonge"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 5,
+        "internalName": "MovizlandProvider",
+        "description": "Not recommended for series.",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/MovizlandProvider.cs3",
+        "name": "MovizlandProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=wecima.tube&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 19538,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 8,
+        "internalName": "MyCimaProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/MyCimaProvider.cs3",
+        "name": "MyCimaProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=shahid4u.cc&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/arab",
+        "fileSize": 15333,
+        "status": 1,
+        "language": "ar",
+        "authors": [
+            "ImZaw"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "Shahid4uProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/arab/builds/Shahid4uProvider.cs3",
+        "name": "Shahid4uProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=haho.moe&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 20699,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Hahomoe",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/Hahomoe.cs3",
+        "name": "HahomoeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pornhub.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 18265,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "Cornhub",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/Pornhub.cs3",
+        "name": "PornhubProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hanime.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 13836,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "hanime",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/Hanime.cs3",
+        "name": "hanime"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hentaihaven.xxx&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 11608,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 1,
+        "internalName": "HentaiHaven",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/HentaiHaven.cs3",
+        "name": "HentaiHaven"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=hpjav.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "HpJav",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/HpJav.cs3",
+        "name": "HpJav"
+    },
+ {
+        "iconUrl": "https://javsub.co/wp-content/uploads/2021/09/jav-sub.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "JavSubProvider",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/JavSubProvider.cs3",
+        "name": "JavSubProvider"
+    },
+ {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javtube.watch&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "JavTube",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/JavTube.cs3",
+        "name": "JavTube"
+    },
+{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=javfree.sh&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "JavFree",
+        "description": "",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/JavFreeProvider.cs3",
+        "name": "JavFree"
+    },
+ {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=opjav.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/jav",
+        "fileSize": 15222,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 3,
+        "internalName": "OpJav",
+        "description": "Fuck u Solo",
+        "url": "https://raw.githubusercontent.com/Solominou/jav/builds/OpJav.cs3",
+        "name": "OpJav"
+    },
+  {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://123animehub.cc&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 14695,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 3,
+        "internalName": "AnimehubProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/AnimehubProvider.cs3",
+        "name": "AnimehubProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animexinax.com&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 19048,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AnimexinaxProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/AnimexinaxProvider.cs3",
+        "name": "AnimexinaxProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.bdys01.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 23534,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "BdysProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/BdysProvider.cs3",
+        "name": "BdysProvider"
+    },
+    {
+        "iconUrl": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.20/images/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 24777,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 7,
+        "internalName": "BollywoodProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/BollywoodProvider.cs3",
+        "name": "BollywoodProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yanetflix.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 23172,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "DamixingqiuProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/DamixingqiuProvider.cs3",
+        "name": "DamixingqiuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ddys.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 17131,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama",
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "DdysProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/DdysProvider.cs3",
+        "name": "DdysProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://desicinemas.tv&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 21697,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "DesicinemasProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/DesicinemasProvider.cs3",
+        "name": "DesicinemasProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dramacool.city&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 13402,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 4,
+        "internalName": "DramacoolProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/DramacoolProvider.cs3",
+        "name": "DramacoolProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kshow123online.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 18305,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "Kshow123Provider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/Kshow123Provider.cs3",
+        "name": "Kshow123Provider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.libvio.me&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 18092,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama",
+            "Others"
+        ],
+        "version": 8,
+        "internalName": "LibvioProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/LibvioProvider.cs3",
+        "name": "LibvioProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.new-movies123.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 18170,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 4,
+        "internalName": "Movie123Provider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/Movie123Provider.cs3",
+        "name": "Movie123Provider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.mxplayer.in&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 31571,
+        "status": 1,
+        "language": "hi",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 3,
+        "internalName": "MxplayerProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/MxplayerProvider.cs3",
+        "name": "MxplayerProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.nivod.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 28214,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama",
+            "Others"
+        ],
+        "version": 2,
+        "internalName": "NivodProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/NivodProvider.cs3",
+        "name": "NivodProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.oulevod.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 12035,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama",
+            "Others"
+        ],
+        "version": 4,
+        "internalName": "OulevodProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/OulevodProvider.cs3",
+        "name": "OulevodProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pahe.sbs&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 14802,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 2,
+        "internalName": "PaheProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/PaheProvider.cs3",
+        "name": "PaheProvider"
+    },
+    {
+        "iconUrl": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.20/images/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 21218,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "PiousIndexProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/PiousIndexProvider.cs3",
+        "name": "PiousIndexProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=rainostreams.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 14931,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 2,
+        "internalName": "RainoStreamsProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/RainoStreamsProvider.cs3",
+        "name": "RainoStreamsProvider"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sockshare.ac&size=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 16943,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "SockshareProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/SockshareProvider.cs3",
+        "name": "SockshareProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=1stream.eu&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 11819,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "Stream1Provider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/Stream1Provider.cs3",
+        "name": "Stream1Provider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 45129,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "TvSeries",
+            "Cartoon",
+            "Anime",
+            "AsianDrama",
+            "Documentary",
+            "Others"
+        ],
+        "version": 10,
+        "internalName": "SuperVod",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/SuperVod.cs3",
+        "name": "SuperVod"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yanetflix.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/movie123",
+        "fileSize": 19097,
+        "status": 1,
+        "language": "zh",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie",
+            "AnimeMovie",
+            "TvSeries",
+            "Anime",
+            "AsianDrama",
+            "Others"
+        ],
+        "version": 3,
+        "internalName": "YaNaiFeiProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/movie123/builds/YaNaiFeiProvider.cs3",
+        "name": "YaNaiFeiProvider"
+    },
+
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=allanime.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 46813,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 9,
+        "internalName": "AllAnimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/AllAnimeProvider.cs3",
+        "name": "AllAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=allmoviesforyou.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 14158,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "AllMoviesForYouProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/AllMoviesForYouProvider.cs3",
+        "name": "AllMoviesForYouProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=aniflix.pro&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 24984,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AniflixProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/AniflixProvider.cs3",
+        "name": "AniflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflick.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 9839,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimeFlickProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/AnimeFlickProvider.cs3",
+        "name": "AnimeFlickProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animekisa.in&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 12721,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AnimekisaProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/AnimekisaProvider.cs3",
+        "name": "AnimekisaProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 34159,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "AnimePaheProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/AnimePaheProvider.cs3",
+        "name": "AnimePaheProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=asiaflix.app&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 17850,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "AsiaFlixProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/AsiaFlixProvider.cs3",
+        "name": "AsiaFlixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ask4movie.mx&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 13534,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "AnimeMovie"
+        ],
+        "version": 4,
+        "internalName": "Ask4Movie",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/Ask4Movie.cs3",
+        "name": "Ask4Movie"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bflix.ru&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 22313,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "version": 1,
+        "internalName": "BflixProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/BflixProvider.cs3",
+        "name": "BflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=crunchyroll.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 30113,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Sir Aguacata (KillerDogeEmpire)"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "Crunchyroll",
+        "description": "The Crunchyroll provider allows you to watch all the shows that are on Crunchyroll.",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/Crunchyroll.cs3",
+        "name": "Crunchyroll"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=bestdubbedanime.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 16975,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "DubbedAnimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/DubbedAnimeProvider.cs3",
+        "name": "DubbedAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=eja.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 10068,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "EjaTv",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/EjaTv.cs3",
+        "name": "EjaTv"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gogoanime.lu&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 24845,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "GogoanimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/GogoanimeProvider.cs3",
+        "name": "GogoanimeProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 8362,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "HDMProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/HDMProvider.cs3",
+        "name": "HDMProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=ihavenotv.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 11518,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Documentary"
+        ],
+        "version": 1,
+        "internalName": "IHaveNoTvProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/IHaveNoTvProvider.cs3",
+        "name": "IHaveNoTvProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kawaiifu.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 13885,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "KawaiifuProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/KawaiifuProvider.cs3",
+        "name": "KawaiifuProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kimcartoon.li&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 11505,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "KimCartoonProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/KimCartoonProvider.cs3",
+        "name": "KimCartoonProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=melomovie.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 12383,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "MeloMovieProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/MeloMovieProvider.cs3",
+        "name": "MeloMovieProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 32542,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "NginxProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/NginxProvider.cs3",
+        "name": "NginxProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=9anime.id&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 35927,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "NineAnimeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/NineAnimeProvider.cs3",
+        "name": "NineAnimeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=olgply.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 5914,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "OlgplyProvider",
+        "description": "Uses TMDB",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/OlgplyProvider.cs3",
+        "name": "OlgplyProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.2embed.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 61458,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 13,
+        "internalName": "SflixProvider",
+        "description": "Due to the video host changing encryption methods extremely often these extensions might not work perfectly. Also includes Dopebox, Solarmovie, Zoro, HDToday and 2embed",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/SflixProvider.cs3",
+        "name": "SflixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=secretlink.xyz&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 18354,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "SoaptwoDayProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/SoaptwoDayProvider.cs3",
+        "name": "SoaptwoDayProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.stremio.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 21034,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 2,
+        "internalName": "StremioProvider",
+        "description": "Allows you to use stremio addons. Requires setup. (Torrents and old api does not work)",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/StremioProvider.cs3",
+        "name": "StremioProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.superembed.stream&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 13180,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 4,
+        "internalName": "SuperembedProvider",
+        "description": "Uses TMDB",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/SuperembedProvider.cs3",
+        "name": "SuperembedProvider"
+    },
+    {
+        "iconUrl": "https://raw.githubusercontent.com/Solominou/sflix/master/SuperStream/icon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 55587,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Blatzar"
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 8,
+        "internalName": "SuperStream",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/SuperStream.cs3",
+        "name": "SuperStream"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=tenshi.moe&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 17251,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "Movie",
+            "OVA"
+        ],
+        "version": 2,
+        "internalName": "TenshiProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/TenshiProvider.cs3",
+        "name": "TenshiProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=theflix.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 44245,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "TheFlixToProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/TheFlixToProvider.cs3",
+        "name": "TheFlixToProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=trailers.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 21426,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Cartoon",
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "TrailersTwoProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/TrailersTwoProvider.cs3",
+        "name": "TrailersTwoProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 5144,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "VidSrcProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/VidSrcProvider.cs3",
+        "name": "VidSrcProvider"
+    },
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 63594,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "Anime",
+            "Movie",
+            "AnimeMovie",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "VidstreamBundle",
+        "description": "Includes many providers with the same layout as Vidstream",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/VidstreamBundle.cs3",
+        "name": "VidstreamBundle"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.vmovee.watch&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 9699,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "VMoveeProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/VMoveeProvider.cs3",
+        "name": "VMoveeProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcostream.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sflix",
+        "fileSize": 16186,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Cartoon",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 3,
+        "internalName": "WatchCartoonOnlineProvider",
+        "url": "https://raw.githubusercontent.com/Solominou/sflix/builds/WatchCartoonOnlineProvider.cs3",
+        "name": "WatchCartoonOnlineProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=yugen.to&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/solo",
+        "fileSize": 19681,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "Solo"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 5,
+        "internalName": "YugenAnime",
+        "url": "https://raw.githubusercontent.com/Solominou/solo/builds/YugenAnime.cs3",
+        "name": "YugenAnime"
+    }
+]

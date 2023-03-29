@@ -1,4 +1,4 @@
-import com.lagradost.cloudstream3.gradle.CloudstreamExtension
+import com.lagradost.cloudstream3.gradle.CloudstreamExtension 
 import com.android.build.gradle.BaseExtension
 
 buildscript {
@@ -25,21 +25,18 @@ allprojects {
     }
 }
 
-fun Project.cloudstream(configuration: CloudstreamExtension.() -> Unit) =
-    extensions.getByName<CloudstreamExtension>("cloudstream").configuration()
+fun Project.cloudstream(configuration: CloudstreamExtension.() -> Unit) = extensions.getByName<CloudstreamExtension>("cloudstream").configuration()
 
-fun Project.android(configuration: BaseExtension.() -> Unit) =
-    extensions.getByName<BaseExtension>("android").configuration()
+fun Project.android(configuration: BaseExtension.() -> Unit) = extensions.getByName<BaseExtension>("android").configuration()
 
-@Suppress("ExpiredTargetSdkVersion") subprojects {
+subprojects {
     apply(plugin = "com.android.library")
     apply(plugin = "kotlin-android")
     apply(plugin = "com.lagradost.cloudstream3.gradle")
 
     cloudstream {
         // when running through github workflow, GITHUB_REPOSITORY should contain current repository name
-        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "https://github.com/Stormunblessed/stormunblessed-cs3")
-        authors = listOf("Stormunblessed")
+        setRepo(System.getenv("GITHUB_REPOSITORY") ?: "user/repo")
     }
 
     android {
@@ -78,13 +75,10 @@ fun Project.android(configuration: BaseExtension.() -> Unit) =
         // but you dont need to include any of them if you dont need them
         // https://github.com/recloudstream/cloudstream/blob/master/app/build.gradle
         implementation(kotlin("stdlib")) // adds standard kotlin features, like listOf, mapOf etc
-        implementation("com.github.Blatzar:NiceHttp:0.4.2") // http library
-        implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.13.1")
+        implementation("com.github.Blatzar:NiceHttp:0.3.2") // http library
         implementation("org.jsoup:jsoup:1.13.1") // html parser
-        implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.4") // delay()
-
-        //run JS
-        implementation("org.mozilla:rhino:1.7.14")
+        implementation("com.fasterxml.jackson.module:jackson-module-kotlin:2.13.+")
+		implementation("org.mozilla:rhino:1.7.14")
     }
 }
 
